@@ -1,0 +1,9 @@
+edu.unl.cc.roomvibe.bussiness
+edu.unl.cc.roomvibe.bussiness.services
+edu.unl.cc.roomvibe.controllers
+edu.unl.cc.roomvibe.controllers.security
+edu.unl.cc.roomvibe.domain.common
+edu.unl.cc.roomvibe.domain.security
+edu.unl.cc.roomvibe.exception
+edu.unl.cc.roomvibe.faces
+edu.unl.cc.roomvibe.util
